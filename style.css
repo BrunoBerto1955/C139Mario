@@ -1,0 +1,31 @@
+.heading
+{
+    width: 100%;
+    text-align: left;
+}
+
+.heading h3{
+    display: inline;
+}
+.big_image
+{
+    width: 100%;
+}
+.big_image
+{
+    width:100% ;
+}
+.heading button{
+    float:right;
+    border: 1px solid white;
+}
+h4
+{
+ background-color: chartreuse;
+ line-height: 2;
+ margin: 0px;
+}
+.modal-dialog
+{
+ width: 90%;
+}
